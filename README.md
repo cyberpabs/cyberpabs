@@ -1,6 +1,6 @@
 ## Hey 👋
 
-- 🌱 I’m currently studying a MSc in Artificial Intelligence.
+- 🌱 I’m currently studying a MSc in Machine Learning and Cybersecurity (European Project MERIT).
 - 🥅 2025 Goals: Bench 225 lbs and improve my mathematical skills.
 - ⚡ About me: I love swimming, lifting weights, reading and the Python programming language.
 
