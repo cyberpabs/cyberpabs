@@ -1,7 +1,7 @@
 ## Hey 👋
 
 - 🌱 I’m currently studying a MSc in Machine Learning and Cybersecurity (European Project MERIT).
-- 🥅 2025 Goals: Bench 225 lbs and improve my mathematical skills.
+- 🥅 Goals: Become a Jack-of-All-Trades.
 - ⚡ About me: I love swimming, lifting weights and reading.
 
 <p align="center" style="margin: auto;"> 
